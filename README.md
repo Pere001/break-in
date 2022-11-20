@@ -14,4 +14,6 @@ To compile:
 - Learn how to compile Raylib for web.
 - Then you can use the build.bat I provide if you want.
 
+Based on an idea by synchronizer (KTR).
+
 (November 2022)
