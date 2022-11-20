@@ -8,6 +8,7 @@ Play it here: https://pered.itch.io/break-in
 
 Details:
 - About 3800 lines of code.
+- The graphics I made myself and the sound effects are mostly free sounds from the internet.
 
 To compile:
 - Learn how to compile Raylib for web.
